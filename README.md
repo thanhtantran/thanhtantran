@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanhtantran
-- 👀 I’m interested in blockchain, nodes, webcode
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in blockchain, nodes, AI
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on developper around the world
 - 📫 How to reach me 
 Email: thanhtan.tran@gmail.com
