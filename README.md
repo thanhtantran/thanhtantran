@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thanhtantran
-- 👀 I’m interested in blockchain, nodes, AI
-- 🌱 I’m currently learning AI
+- 👋 Hi, I’m Tony Tran (@thanhtantran)
+- 👀 I’m interested in blockchain, nodes, AI, single board computer
+- 🌱 I’m currently learning coding by using AI as instructor
 - 💞️ I’m looking to collaborate on developper around the world
 - 📫 How to reach me 
 Email: thanhtan.tran@gmail.com
