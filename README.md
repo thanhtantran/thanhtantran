@@ -4,6 +4,8 @@
 💻 Embedded AI | IoT | Edge Computing | SBC  
 🧠 Focus on **Orange Pi & Rockchip platforms**
 
+[vn Xem tiếng Việt](README.vn.md)
+
 ---
 
 ### 🔧 What I Build
@@ -37,4 +39,4 @@
 
 ⭐ Building AI Edge solutions with Orange Pi  
 ⭐ Made for developers, makers & engineers
-⭐ CContributing to the technological development of Vietnam.
+⭐ CContributing to the technological development of Vietnam
