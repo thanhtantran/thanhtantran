@@ -38,5 +38,5 @@
 ---
 
 ⭐ Building AI Edge solutions with Orange Pi  
-⭐ Made for developers, makers & engineers
-⭐ CContributing to the technological development of Vietnam
+⭐ Made for developers, makers & engineers  
+⭐ Contributing to the technological development of Vietnam  
