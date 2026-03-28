@@ -31,7 +31,7 @@
 ### 🌍 Connect
 
 - 🌐 Website: https://orangepi.vn  
-- 📺 YouTube: ![Orange Pi Viẹtnam](https://www.youtube.com/orangepivietnam)
+- 📺 YouTube: https://www.youtube.com/orangepivietnam
 - 💻 GitHub: https://github.com/thanhtantran
 - 📧 Email: hello@orangepi.vn
 
