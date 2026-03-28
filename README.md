@@ -29,7 +29,7 @@
 ### 🌍 Connect
 
 - 🌐 Website: https://orangepi.vn  
-- 📺 YouTube: Orange Pi Vietnam  
+- 📺 YouTube: ![Orange Pi Vietnam](https://www.youtube.com/orangepivietnam)
 - 💻 GitHub: https://github.com/thanhtantran  
 
 ---
