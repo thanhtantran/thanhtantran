@@ -34,6 +34,7 @@
 - 📺 YouTube: https://www.youtube.com/orangepivietnam
 - 💻 GitHub: https://github.com/thanhtantran
 - 📧 Email: hello@orangepi.vn
+- 📞 Phone: +84.923.44.98.99
 
 ---
 
