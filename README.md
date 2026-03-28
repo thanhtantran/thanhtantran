@@ -1,4 +1,4 @@
-# 👋 Thanh Tan (Tony Tran)
+# 👋 Trần Thanh Tân (Tony Tran)
 
 🚀 Founder of **Orange Pi Vietnam**  
 💻 Embedded AI | IoT | Edge Computing | SBC  
@@ -30,9 +30,11 @@
 
 - 🌐 Website: https://orangepi.vn  
 - 📺 YouTube: ![Orange Pi Vietnam](https://www.youtube.com/orangepivietnam)
-- 💻 GitHub: https://github.com/thanhtantran  
+- 💻 GitHub: https://github.com/thanhtantran
+- 📧 Email: hello@orangepi.vn
 
 ---
 
 ⭐ Building AI Edge solutions with Orange Pi  
 ⭐ Made for developers, makers & engineers
+⭐ CContributing to the technological development of Vietnam.
